@@ -34,10 +34,11 @@ key.properties
 
 documentation
 windows
-
+assets
 ios
 android
 
+pubspec.lock
 test.txt
 
 # Web related
